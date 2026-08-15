@@ -1,5 +1,5 @@
 context:
-  version: "0.211.0"
+  version: "0.212.0"
 
 package:
   name: metricflow
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/m/metricflow/metricflow-${{ version }}.tar.gz
-  sha256: e15d0c24647f4498fa0926e87c61dd23b15205c9577566bcf848460d58f48bec
+  sha256: d85a4d2a37791e2215a5aad373bf50721191b223102ffe9318d8326b926eeadc
 
 build:
   number: 0
